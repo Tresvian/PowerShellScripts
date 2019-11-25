@@ -1,7 +1,7 @@
 ﻿class Node
 {
     <#
-    NOTE: The rotations were later implemented into the structure later on FOUO workplace. Unable to retrieve.
+    NOTE: The rotations were later implemented into the structure in FOUO workplace. Unable to retrieve.
     Each Node has a value for keeping the binary structure operational (searching), and then a m_data variable for the rest of the data.
 
 
